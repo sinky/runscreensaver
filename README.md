@@ -1,6 +1,8 @@
 # runscreensaver
 Runs given command as screensaver
 
+Created for https://github.com/sinky/html5-screensaver-node-webkit
+
 ## Create screensaver executable from .au3 file
 
 - Download AutoIt as ZIP and extract archive (https://www.autoitscript.com/site/autoit/downloads/)
